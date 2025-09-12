@@ -1,0 +1,10 @@
+enableVsync:false
+entityShadows:false
+graphicsMode:0
+maxFps:260
+resourcePacks:["vanilla","file/SodiumTranslations.zip"]
+tutorialStep:none
+advancedItemTooltips:true
+skipMultiplayerWarning:true
+joinedFirstServer:true
+syncChunkWrites:false

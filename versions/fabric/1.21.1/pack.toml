@@ -1,0 +1,13 @@
+name = "Taichi"
+author = "OrzMiku"
+version = "1.0.0-alpha.1+mc1.21.1_fabric"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fc518861ddfa43278df51641ccd14d8c369ec90ab2762eab60da427efe3ac495"
+
+[versions]
+fabric = "0.17.3"
+minecraft = "1.21.1"

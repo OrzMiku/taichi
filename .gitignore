@@ -1,0 +1,14 @@
+# Exclude exported modpacks
+*.mrpack
+*.zip
+!/resourcepacks/*.zip
+!/datapacks/*.zip
+
+# Log files
+*.log
+
+# Python cache files
+__pycache__/
+
+# Temporary Directory
+temp/
