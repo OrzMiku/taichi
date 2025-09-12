@@ -1,0 +1,114 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
+
+[[files]]
+file = "config/iris.properties"
+hash = "0da4eb518c2242dafe6e5dafc05b004211164b1ffa4e8a96fa3decfb693137ef"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "31ce8dd1234f6b207bc364149a91f0f6addb87b27d1cfcf86472f0517aa87119"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "099668f0a2e875a916b53865aba1a88bbfc67ba9227b7a6841d44657fa399777"
+
+[[files]]
+file = "icon.png"
+hash = "1e859814c25bd3559188da7c8320a49a21ec29b7ba012858b20b58eef243cbf1"
+
+[[files]]
+file = "mods/asyncparticles.pw.toml"
+hash = "ae74c1d729a5a71f5c433e2a4f916bb3f336ceabe689432e3332e40492f3ce21"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "01013db5d43a8e041bfb70f5f88d4940cc4a6eefd620577df20954bd0ab6004d"
+metafile = true
+
+[[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "859c1cdba4ee8e184180ce36f6abe455c92260e95fb787fb803f21a1e39a818b"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a771d1143eaa0370fe7f5bd27c525d846ee341183e11175ae7295e724ba0a4bf"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "7cb7f16ab57552f70bc568b1a5f72459acc2ca367e26c4b8e270d3446f4f77d6"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "c63d74160e337597c5c5cd8b33146c7fbbe1763dc84277700cd016f7d1b51590"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "77f3b571c6745420f736735c2b0954225833ba230b2888cf423eaa8cffc2cea0"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "e87fe75a7fa41bd1903c9aefbc6c860c52370ed48fa2eba0c9114e711882183c"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "911f53b283733884fdd6e046c365885d6e3f36edf4d38a06eea84fced393120c"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "6d8c2cffdc5db64f6134d6427dd0ac938ec659a56ba8f7655889bfd8b3368239"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "bd0149ca80813c1807df06585c846d99aee31088adbe01b233c6807aed20e843"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "e2042d1da44bf8d55ab4ef2d8284ca10ada3f572230488e8f09d26e16c9b1ff8"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "a35f511b93573ee89e3e592bdf639b01b7b5ec503a46e7cea36581e2e2651b98"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "b63cfea0d91edb57220f472d7b5548af3b5a88872d81f0a183b4d1eb0784b5f5"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "4b271c2789417bd4d39b3c530373b248148db27ab0846e888b6ce98a174bd8e6"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "6e25bba92c384d905a10966ea133c97a3c39ac7702e2a792830fafee44356d71"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "43d4fff6522f0a00bfe87a6a47e4e568f7ebdd5deaa70533f00d153d3ff09fac"
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "8539501b121e5d3a562e1baad4c334b97882c8b5cfb3f038765c2a37f05e7427"
+metafile = true

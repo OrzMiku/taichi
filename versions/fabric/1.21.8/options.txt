@@ -1,0 +1,8 @@
+enableVsync:false
+entityShadows:false
+graphicsMode:0
+maxFps:260
+renderDistance:8
+simulationDistance:8
+resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip"]
+syncChunkWrites:false
