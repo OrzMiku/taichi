@@ -1,0 +1,49 @@
+name: Export and Upload Modpacks
+
+on:
+  workflow_dispatch:
+  push:
+
+jobs:
+  export-and-upload:
+    name: Export and Upload Modpacks
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: "1.21"
+          cache: false
+
+      - name: Setup packwiz
+        run: |
+          echo "Installing packwiz..."
+          go install github.com/packwiz/packwiz@latest
+          echo "Adding Go binary paths to GITHUB_PATH..."
+          echo "$(go env GOPATH)/bin" >> $GITHUB_PATH
+          echo "$HOME/go/bin" >> $GITHUB_PATH
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Get short commit hash
+        id: vars
+        run: echo "sha_short=$(git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
+
+      - name: Export Modpacks
+        run: |
+          python scripts/export.py
+
+      - name: Upload Modpack Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: taichi-snapshot-${{ steps.vars.outputs.sha_short }}
+          path: versions/**/*.mrpack
+          if-no-files-found: error
+          retention-days: 30

@@ -5,4 +5,8 @@ maxFps:260
 renderDistance:8
 simulationDistance:8
 resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip"]
+advancedItemTooltips:true
+tutorialStep:none
+skipMultiplayerWarning:true
+joinedFirstServer:true
 syncChunkWrites:false
