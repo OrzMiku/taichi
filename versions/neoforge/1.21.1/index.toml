@@ -25,6 +25,11 @@ file = "icon.png"
 hash = "1e859814c25bd3559188da7c8320a49a21ec29b7ba012858b20b58eef243cbf1"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "ae6352055ac8adb36b9e4d2ae6bbc996e040399d032bc4a9fa5275c1c46dbf60"
+metafile = true
+
+[[files]]
 file = "mods/asyncparticles.pw.toml"
 hash = "4440f02640636d6368551302ed6032bad87da3cc4962efb94c9711137b3ed469"
 metafile = true
@@ -42,6 +47,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-light.pw.toml"
+hash = "04dac62189e512d1e3f4a4dd04f51e9b32aa49f4caff7c2b657da2b0abf2c0dd"
 metafile = true
 
 [[files]]
@@ -65,6 +75,11 @@ hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "297eb75ce1aedc28f183a8891fde9c67318953e6c8adf3d7531a17b211f9349d"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
 metafile = true
@@ -72,6 +87,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "91696791780719730cb8826de0c53d8513a7c2b320f7d641dbeb6ca974e5cec3"
+metafile = true
+
+[[files]]
+file = "mods/neo-language-reload.pw.toml"
+hash = "11da5c3367fa7828137f5abcb7ab9dd9c51759f7c53828fc400c9a53de794db0"
 metafile = true
 
 [[files]]
@@ -85,8 +105,18 @@ hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "8f1976efa9b52279d082c017ca3f745a212deb461f3bc0ae4ca6ed0f2cf7c7e8"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
+metafile = true
+
+[[files]]
+file = "mods/resourcify.pw.toml"
+hash = "1947c1cb6993a202259ad97573d03fb89e8a31b0b637637d07af00c803e46d95"
 metafile = true
 
 [[files]]
@@ -111,34 +141,4 @@ hash = "b0ecb8a3bc7b5e29f2ca6baf87baa2e0adb1ece182531507dbd926ca2d0cb06a"
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
 hash = "8539501b121e5d3a562e1baad4c334b97882c8b5cfb3f038765c2a37f05e7427"
-metafile = true
-
-[[files]]
-file = "shaderpacks/bliss-shader.pw.toml"
-hash = "f4fb7685cf5f1f07eb5b07b0dd7ea211e46e249cb3a78237358d27c3db1dea2b"
-metafile = true
-
-[[files]]
-file = "shaderpacks/bsl-shaders-classic.pw.toml"
-hash = "12f0f4fb508a6a178b3a725503d0802978b4bebdf678bccc5f81a5655a0db4c4"
-metafile = true
-
-[[files]]
-file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "d30923bf5cfb4988a372508cb461d8077609d79a38d0b170785804c7ad15f16e"
-metafile = true
-
-[[files]]
-file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
-metafile = true
-
-[[files]]
-file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "9025311f42fe8ab581987962c9c6b3ec5a50f5afc803e9d867dc580cb0b66190"
-metafile = true
-
-[[files]]
-file = "shaderpacks/photon-shader.pw.toml"
-hash = "3add1378e964947556ec43ebc86a431981cfa67c9b95353105d7f48deb58ff3d"
 metafile = true

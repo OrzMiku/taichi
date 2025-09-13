@@ -1,0 +1,13 @@
+name = "Dynamic light"
+filename = "dynamic-light-0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DJ1ZClf3/versions/UdveVUc3/dynamic-light-0.3.jar"
+hash-format = "sha512"
+hash = "0b5dce85e68cfb5b223cfac7ebbea92acf3bf793536f04abbc9645fa59f52a77598fe29f06d2c1eb3224ebee39bf7845f44ac06f8e35f9acfe8ff28296c845e9"
+
+[update]
+[update.modrinth]
+mod-id = "DJ1ZClf3"
+version = "UdveVUc3"

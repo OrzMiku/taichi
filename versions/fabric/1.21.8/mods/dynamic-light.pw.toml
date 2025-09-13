@@ -1,0 +1,13 @@
+name = "Dynamic light"
+filename = "dynamic-light-0.6.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DJ1ZClf3/versions/MhLShKkT/dynamic-light-0.6.2.jar"
+hash-format = "sha512"
+hash = "0dc787deadca5b06431f977d33569d8747cf0e3cd7ff04c0ab55840959c051c041a99c4b1051735ac1c9a2f4bd9bfb5f0605733c4f2492bb0e97458d7a9b6e85"
+
+[update]
+[update.modrinth]
+mod-id = "DJ1ZClf3"
+version = "MhLShKkT"

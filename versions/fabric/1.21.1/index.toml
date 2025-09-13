@@ -33,6 +33,11 @@ file = "icon.png"
 hash = "1e859814c25bd3559188da7c8320a49a21ec29b7ba012858b20b58eef243cbf1"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "3c4f1558a94121e7fe573ad4ad05c2fe44ccf78cbb89bb766a74985188207cdc"
+metafile = true
+
+[[files]]
 file = "mods/asyncparticles.pw.toml"
 hash = "4440f02640636d6368551302ed6032bad87da3cc4962efb94c9711137b3ed469"
 metafile = true
@@ -53,6 +58,11 @@ hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-light.pw.toml"
+hash = "04dac62189e512d1e3f4a4dd04f51e9b32aa49f4caff7c2b657da2b0abf2c0dd"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "6a9b4b98f97d594466cb63f91d9f7a960bb008fbeeda4680cc1b312fb2751073"
 metafile = true
@@ -60,6 +70,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "da9fbdce468fbfa6bd5a7ceb15465780e3e8fda9535d16f40a81343621e627a7"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "098d6976a738658ca490cc58e9fab19f06cd1a7b23199b6f1ee108d866333e22"
 metafile = true
 
 [[files]]
@@ -75,6 +90,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
 metafile = true
 
 [[files]]
@@ -103,8 +123,18 @@ hash = "dcc936d7bd32a86ce63fa3bf013864a4e2ed979cb126a915153ac70ce5e5671f"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "b4490e3459ef892bbb69d72d877100a2333e6df147cc4ceac4289529706011c9"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
+metafile = true
+
+[[files]]
+file = "mods/resourcify.pw.toml"
+hash = "a6b41507d308b48c7a5fb686df16f7ff2e0518ca7f53cfef6f5ae0ac3a4e4731"
 metafile = true
 
 [[files]]
@@ -125,3 +155,8 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "b0ecb8a3bc7b5e29f2ca6baf87baa2e0adb1ece182531507dbd926ca2d0cb06a"
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "8539501b121e5d3a562e1baad4c334b97882c8b5cfb3f038765c2a37f05e7427"
+metafile = true

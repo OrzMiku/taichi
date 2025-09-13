@@ -1,0 +1,13 @@
+name = "Neo Language Reload"
+filename = "neo_language_reload-2.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QdvyilOW/versions/PweFCWuJ/neo_language_reload-2.0.0.jar"
+hash-format = "sha512"
+hash = "b2076886d3baaaa79cae2f00f7865f3264b38c9e2249d772f1ee686cbdc841a994bbafe9831a7518b23dbe9792de58cdb9a26daa6a30578b5787c273af233cf8"
+
+[update]
+[update.modrinth]
+mod-id = "QdvyilOW"
+version = "PweFCWuJ"

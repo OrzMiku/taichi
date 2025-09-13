@@ -1,12 +1,12 @@
 name = "Taichi"
 author = "OrzMiku"
-version = "1.0.0-alpha.1+mc1.21.8_neoforge"
+version = "1.0.0-alpha.2+mc1.21.8_neoforge"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "13b7246df2aca4c4b0b24d10b4f48045ed0629c76b0be5151060f2f53a1adad7"
+hash = "200b0102a3f259b81285f5a3444016ac18b08728c84284c82818eadae4f0a7b0"
 
 [versions]
 minecraft = "1.21.8"
