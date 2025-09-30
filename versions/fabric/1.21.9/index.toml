@@ -1,0 +1,67 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/c2me.toml"
+hash = "e14a109374d2ee13b5a8608d77128ea29f4016a5d2ed9837a7cee85e33410bc3"
+
+[[files]]
+file = "config/iris.properties"
+hash = "0da4eb518c2242dafe6e5dafc05b004211164b1ffa4e8a96fa3decfb693137ef"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "099668f0a2e875a916b53865aba1a88bbfc67ba9227b7a6841d44657fa399777"
+
+[[files]]
+file = "icon.png"
+hash = "1e859814c25bd3559188da7c8320a49a21ec29b7ba012858b20b58eef243cbf1"
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "67bdcefc70a90723e8f661f9ed60c09d66ff1c1a2615ece603c8e0d360532df2"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "c3b72a68903d903b47dd9fac9d03b190b7c6b3b9f9c5a4e5f599afba109c6a17"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "098d6976a738658ca490cc58e9fab19f06cd1a7b23199b6f1ee108d866333e22"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "70dc9abe83d7c369d9c349f8b5a188984de24d1e98d282fdb173bf06b845a76b"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "931b0da77e9c5c38c2cde7f01e81136c35c618aacf71cc227ade27d76137e4e5"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "4e1dd52be6541751029a370a02c83cc663a8be8b62187a4aa273ca02a154fc37"
+metafile = true
+
+[[files]]
+file = "mods/resourcify.pw.toml"
+hash = "67d725bda8bdf2de7b3e60a42b281b31d3b3f6104cfd5d8b9a61309483343264"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "88e1cf290eb023af36efe7b20d1fb880597326d132189763b293a644c203ebfb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "52bd07962e11b5bb35b3e43621851c2cba8c3c8c4bcc8f3155375d4828bfe25c"
+metafile = true
