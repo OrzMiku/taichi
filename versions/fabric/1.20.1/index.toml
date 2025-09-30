@@ -84,7 +84,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "67099bc47fc849c2964b3b64b6f3af6fcbf941d9a4f1c03dda25f746b279015b"
+hash = "060c6baaec85f47ba4bc2c0f4b8642b9933c27d3c166eb00ef86b4bbfd7f34a3"
 metafile = true
 
 [[files]]
@@ -153,5 +153,5 @@ hash = "b0ecb8a3bc7b5e29f2ca6baf87baa2e0adb1ece182531507dbd926ca2d0cb06a"
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "8539501b121e5d3a562e1baad4c334b97882c8b5cfb3f038765c2a37f05e7427"
+hash = "52bd07962e11b5bb35b3e43621851c2cba8c3c8c4bcc8f3155375d4828bfe25c"
 metafile = true

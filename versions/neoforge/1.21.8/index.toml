@@ -71,17 +71,17 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e87fe75a7fa41bd1903c9aefbc6c860c52370ed48fa2eba0c9114e711882183c"
+hash = "8c1e2cbb1cbb70bec3c8a5b0d8402b8cfe02662015ddc7828c06a7ccd91a9db3"
 metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "297eb75ce1aedc28f183a8891fde9c67318953e6c8adf3d7531a17b211f9349d"
+hash = "1a9ec5beaba1be3151b8710db2bfab90c2063a4dafaf2720336852245a145cc4"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "911f53b283733884fdd6e046c365885d6e3f36edf4d38a06eea84fced393120c"
+hash = "c2d10103909dc13c52e1d067d25422126ed8dbfdb75164336e67e615bf213e88"
 metafile = true
 
 [[files]]
@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "6e25bba92c384d905a10966ea133c97a3c39ac7702e2a792830fafee44356d71"
+hash = "2e5dbccf6155c3ae4982e05cf1f403bb157cfe1f7731b0e533e33ab64f43f054"
 metafile = true
 
 [[files]]
@@ -140,5 +140,5 @@ hash = "b0ecb8a3bc7b5e29f2ca6baf87baa2e0adb1ece182531507dbd926ca2d0cb06a"
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "8539501b121e5d3a562e1baad4c334b97882c8b5cfb3f038765c2a37f05e7427"
+hash = "52bd07962e11b5bb35b3e43621851c2cba8c3c8c4bcc8f3155375d4828bfe25c"
 metafile = true

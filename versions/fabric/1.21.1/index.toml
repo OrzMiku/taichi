@@ -49,7 +49,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "17b40cfda4539840d350572bc5693a5984e862ecb58c2458f33822a074381bc4"
+hash = "796c28baec98b91ac98449364c0a6786201f01580a777bcecacb137c1e2c6309"
 metafile = true
 
 [[files]]
@@ -84,7 +84,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "0e5b10aefb078de8f531b588b6384cbfa585f8c6991b0b9b21dce1d642a6d840"
+hash = "907ed71a8d572d5bc2a8f956b0b0d0fad37e1d5bdd48464041a76ef8fca79cb7"
 metafile = true
 
 [[files]]
@@ -158,5 +158,5 @@ hash = "b0ecb8a3bc7b5e29f2ca6baf87baa2e0adb1ece182531507dbd926ca2d0cb06a"
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "8539501b121e5d3a562e1baad4c334b97882c8b5cfb3f038765c2a37f05e7427"
+hash = "52bd07962e11b5bb35b3e43621851c2cba8c3c8c4bcc8f3155375d4828bfe25c"
 metafile = true

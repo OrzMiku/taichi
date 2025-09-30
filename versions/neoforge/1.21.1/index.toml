@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "23fa7746f7e0d4a3b6fcb176ab05b923d3a1f7553d349339567abcfec77295b4"
+hash = "fb581f4561eb20004b1f4b3f771d44d1b6761bf96cefa5f5f558538d17218858"
 metafile = true
 
 [[files]]
@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a55fe659bff4772919b0e3f7a64d79df053556cb16cf8e5a186e20d6b3945dc1"
+hash = "6bdf101d3d5ec8729a8095d5853f80eb925a47c889cd10de6704b20cc7f3c73e"
 metafile = true
 
 [[files]]
@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "297eb75ce1aedc28f183a8891fde9c67318953e6c8adf3d7531a17b211f9349d"
+hash = "1a9ec5beaba1be3151b8710db2bfab90c2063a4dafaf2720336852245a145cc4"
 metafile = true
 
 [[files]]
@@ -140,5 +140,5 @@ hash = "b0ecb8a3bc7b5e29f2ca6baf87baa2e0adb1ece182531507dbd926ca2d0cb06a"
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "8539501b121e5d3a562e1baad4c334b97882c8b5cfb3f038765c2a37f05e7427"
+hash = "52bd07962e11b5bb35b3e43621851c2cba8c3c8c4bcc8f3155375d4828bfe25c"
 metafile = true
