@@ -1,0 +1,37 @@
+[extensions]
+name = "Utils"
+version = "1.0.0"
+description = "Utility functions and features"
+
+[[mod]]
+name = "Default Options"
+[mod.fabric]
+"1.21.10" = "https://modrinth.com/mod/default-options"
+"1.21.1" = "https://modrinth.com/mod/default-options"
+"1.20.1" = "https://modrinth.com/mod/default-options"
+[mod.neoforge]
+"1.21.1" = "https://modrinth.com/mod/default-options"
+[mod.forge]
+"1.20.1" = "https://modrinth.com/mod/default-options"
+
+[[mod]]
+name = "Xaero's Minimap"
+[mod.fabric]
+"1.21.10" = "https://modrinth.com/mod/xaeros-minimap"
+"1.21.1" = "https://modrinth.com/mod/xaeros-minimap"
+"1.20.1" = "https://modrinth.com/mod/xaeros-minimap"
+[mod.neoforge]
+"1.21.1" = "https://modrinth.com/mod/xaeros-minimap"
+[mod.forge]
+"1.20.1" = "https://modrinth.com/mod/xaeros-minimap"
+
+[[mod]]
+name = "Xaero's World Map"
+[mod.fabric]
+"1.21.10" = "https://modrinth.com/mod/xaeros-world-map"
+"1.21.1" = "https://modrinth.com/mod/xaeros-world-map"
+"1.20.1" = "https://modrinth.com/mod/xaeros-world-map"
+[mod.neoforge]
+"1.21.1" = "https://modrinth.com/mod/xaeros-world-map"
+[mod.forge]
+"1.20.1" = "https://modrinth.com/mod/xaeros-world-map"

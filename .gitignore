@@ -12,3 +12,6 @@ __pycache__/
 
 # Temporary Directory
 temp/
+
+# Build Directory （extensions output）
+build/
